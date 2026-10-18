@@ -1,4 +1,4 @@
-# Smile Cookie China v2: pop-up (M1-2, TX Huaihai) -> street store Wukang-Anfu (M3-12). Dough made on site.
+# Dreamy Cookie China v2: pop-up (M1-2, TX Huaihai) -> street store Wukang-Anfu (M3-12). Dough made on site.
 FX=6.7
 ING=8.4   # ingredients per cookie incl. ~5% waste (on-site dough)
 # channel economics per cookie (prices incl. VAT; VAT handled separately)

@@ -1,4 +1,4 @@
-# Smile Cookie China (微笑曲奇 / Wēixiào Qūqí): Funding Pitch, Shanghai Pilot
+# Dreamy Cookie China (梦幻曲奇 / Mènghuàn Qūqí): Funding Pitch, Shanghai Pilot
 
 **Course:** International Business (V. Ostroukhova), Team Project #2 "Market entry project linked to Asia"
 **Format:** 14-minute funding pitch, 15 slides, followed by Q&A
@@ -12,7 +12,7 @@
 
 | # | Slide (headline) | Requirement covered | Min |
 |---|---|---|---|
-| 1 | Smile Cookie: the cookie you design yourself | Hook | 0:30 |
+| 1 | Dreamy Cookie: the cookie you design yourself | Hook | 0:30 |
 | 2 | Shanghai Gen-Z pays for experience, not for cookies | Business idea | 0:45 |
 | 3 | A RMB 600bn bakery market, still under-consumed per capita | Market | 0:45 |
 | 4 | Build-your-own is the product; the weekly drop brings people back | Product / service | 1:15 |
@@ -33,17 +33,17 @@ Suggested speaker split for 4 presenters: A 1–4 (3:15) · B 5–8 (4:00) · C 
 
 ---
 
-## Slide 1: Smile Cookie: the cookie you design yourself
+## Slide 1: Dreamy Cookie: the cookie you design yourself
 
 - **Hot, giant, customised cookies**, designed in a WeChat Mini-Program and baked to order
 - One flagship store in **Shanghai (Wukang–Anfu Road, Xuhui)**, opening March 2027
 - Concept adapted from Crumbl Cookies: **30% less sugar, local flavours, gift-ready**
 - **Ask: RMB 1.9M (≈ US$284k) for 30% equity**
 
-**Visual:** full-bleed photo-style mockup of a cookie with "生日快乐 Lina" piped on top inside a pink box, phone beside it showing the Mini-Program builder. 微笑曲奇 logo top left.
+**Visual:** full-bleed photo-style mockup of a cookie with "生日快乐 Lina" piped on top inside a pink box, phone beside it showing the Mini-Program builder. 梦幻曲奇 logo top left.
 
 **Speaker notes:**
-"Hi, we're Smile Cookie. Picture a warm cookie the size of your hand that you designed yourself on your phone ten minutes ago: base, filling, topping, even your friend's name on it. That's our product. We're opening one flagship store in Shanghai in March 2027, in the Wukang–Anfu Road area. Over the next fourteen minutes we'll show you why Shanghai, why customisation and not just novelty, and what the numbers look like. At the end we'll ask you for 1.9 million RMB."
+"Hi, we're Dreamy Cookie. Picture a warm cookie the size of your hand that you designed yourself on your phone ten minutes ago: base, filling, topping, even your friend's name on it. That's our product. We're opening one flagship store in Shanghai in March 2027, in the Wukang–Anfu Road area. Over the next fourteen minutes we'll show you why Shanghai, why customisation and not just novelty, and what the numbers look like. At the end we'll ask you for 1.9 million RMB."
 
 ---
 
@@ -101,12 +101,12 @@ Suggested speaker split for 4 presenters: A 1–4 (3:15) · B 5–8 (4:00) · C 
 | **Princess Su** (Nanjing E. Rd) | Puff-pastry cookies sold by weight, tourist queues [S13] | Pick-and-mix | No | Gift sets |
 | **Holiland 好利来 / Butterful & Creamorous / Kumo Kumo** | Premium cakes and pastries in malls [S15] | None | No | Yes |
 | **Tea chains** (HEYTEA, Chagee…) | Substitute "small treat" at RMB ~10–25 [A4] | Sugar/ice level | Made to order | Yes |
-| **Smile Cookie** | **Hot giant cookie + build-your-own** | **High** | **Yes** | **Yes** |
+| **Dreamy Cookie** | **Hot giant cookie + build-your-own** | **High** | **Yes** | **Yes** |
 
 - **White space:** no Shanghai brand we found offers **hot + personalised** cookies (a full Dianping scan of competitors needs verification before the pitch)
 - Our real competitor for wallet share is the **RMB 20–40 afternoon treat**, not other cookie shops
 
-**Visual:** 2×2 positioning map: X-axis "standardised ↔ personalised", Y-axis "packaged/cold ↔ fresh/hot"; Smile Cookie alone in the top-right.
+**Visual:** 2×2 positioning map: X-axis "standardised ↔ personalised", Y-axis "packaged/cold ↔ fresh/hot"; Dreamy Cookie alone in the top-right.
 
 **Speaker notes:**
 "Who are we up against? Direct cookie players exist: Strictly Cookies, an American-style brand that mostly sells wholesale to cafés; CookieYak in Jing'an, which rotates flavours monthly; and Princess Su on Nanjing Road, which tourists queue for. Then there are premium bakeries like Holiland and Butterful & Creamorous. But nobody we found does hot cookies baked to your design. Honestly, our biggest competitor is the milk-tea cup. That's the twenty-to-forty-yuan treat we have to beat."
@@ -268,7 +268,7 @@ Suggested speaker split for 4 presenters: A 1–4 (3:15) · B 5–8 (4:00) · C 
 - **Taxes and social contributions:** about **RMB 0.3–0.4M in year 1** (VAT, CIT, employer social insurance, withheld IIT) [A11, estimate]
 - **Platform ecosystem:** ~21,000 delivery orders a year for local riders and ~4,700 SF Express shipments
 
-**For Smile Cookie / investors:**
+**For Dreamy Cookie / investors:**
 - A **proven unit model** and an owned customer base (target **25k members**) as the basis for store #2
 - **Know-how** in licensing and running a China-adapted menu, which could later be licensed to other YRD cities
 
@@ -283,7 +283,7 @@ Suggested speaker split for 4 presenters: A 1–4 (3:15) · B 5–8 (4:00) · C 
 
 | Risk | Early warning (trigger) | Response |
 |---|---|---|
-| **Copycats** (local brands copy within months) | Similar menus appear on Dianping | Speed: weekly drops; **brand + 微笑曲奇 trademark filed before launch**; member base and co-created flavours are hard to copy |
+| **Copycats** (local brands copy within months) | Similar menus appear on Dianping | Speed: weekly drops; **brand + 梦幻曲奇 trademark filed before launch**; member base and co-created flavours are hard to copy |
 | **Trend fades** (the Crumbl pattern) | 30-day repeat rate < 30%; orders < 165/day for 2 months | Push gifting and corporate orders; refresh the builder; cut costs (−RMB 30k/month) |
 | **Rent / location** | Lease renewal shock, or footfall drops | 3-year lease with a cap on increases; delivery is 30% of orders and doesn't depend on footfall |
 | **Regulation** (food safety, licence, data) | Inspection findings | Licensed shared kitchen; HACCP-style SOPs; PIPL-compliant consent in the Mini-Program |
@@ -322,7 +322,7 @@ Suggested speaker split for 4 presenters: A 1–4 (3:15) · B 5–8 (4:00) · C 
 **Visual:** donut chart of use of funds; KPI scoreboard with 9 tiles; "Ask: RMB 1.9M / 30%" in large type.
 
 **Speaker notes:**
-"So here's our ask: 1.9 million yuan, about 284 thousand dollars, for thirty percent of Smile Cookie China. About two-thirds builds and opens the store; the rest is a reserve and contingency, so a bad first year doesn't kill us. We'd take it in two tranches, with the reserve released after a month-four review against these KPIs: about two hundred orders a day, forty percent customised, twenty-five thousand members, and profitable at the store level. Prove one store, then open the second. Thank you. Happy to take your questions."
+"So here's our ask: 1.9 million yuan, about 284 thousand dollars, for thirty percent of Dreamy Cookie China. About two-thirds builds and opens the store; the rest is a reserve and contingency, so a bad first year doesn't kill us. We'd take it in two tranches, with the reserve released after a month-four review against these KPIs: about two hundred orders a day, forty percent customised, twenty-five thousand members, and profitable at the store level. Prove one store, then open the second. Thank you. Happy to take your questions."
 
 ---
 
